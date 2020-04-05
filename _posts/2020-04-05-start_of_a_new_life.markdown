@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Start of a New Life"
-date:       2020-04-05 20:49:44 +0000
+date:       2020-04-05 16:49:45 -0400
 permalink:  start_of_a_new_life
 ---
 
